@@ -1,1 +1,8 @@
-# lab-respuesta-galvanica-
+# Laboratorio respuesta galvanica cutánea
+# Objetivos
+# Marco teorico y selección de zona anatomica
+La actividad electrodérmica, conocida como EDApor sus siglas en inglés, o también como respuesta galvánica de la piel es un marcador fisiológico ampliamente validado de la activación del sistema nervioso simpático. Desde el punto de vista neurofisiológico, la EDA refleja cambios en la conductancia eléctrica de la piel producidos por la actividad de las glándulas sudoríparas ecrinas, las cuales están inervadas exclusivamente por fibras simpáticas colinérgicas. Cuando un individuo experimenta estrés, carga cognitiva o algún tipo de activación emocional, se incrementa la actividad simpática, lo que provoca mayor secreción sudomotora y, en consecuencia, un aumento en la conductancia cutánea. Esta relación fisiológica ha sido descrita en revisiones sistemáticas y estudios experimentales contemporáneos, como los publicados en la revista Psychophysiology y en Autonomic Neuroscience, donde se establece que la EDA es uno de los indicadores periféricos más sensibles del arousal autonómico (Boucsein, 2012; Benedek & Kaernbach, 2010). En términos de señal, la GSR se compone de un nivel tónico denominado Skin Conductance Level (SCL), que representa el estado basal de activación simpática, y de respuestas fásicas transitorias denominadas Skin Conductance Responses (SCR), asociadas a estímulos específicos o eventos emocionales. Diversos estudios experimentales, incluyendo investigaciones publicadas en Frontiers in Physiology, han demostrado que durante tareas de estrés cognitivo inducido se observa un incremento estadísticamente significativo tanto en el SCL como en la frecuencia y amplitud de las SCR, confirmando la utilidad de esta variable como biomarcador objetivo del estrés psicológico.
+
+# Procesamiento del código
+# Resultados y análisis
+# Conclusiones
