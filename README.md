@@ -32,9 +32,9 @@ según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre
 
 | Ecuación | Caso | Corriente |
 |:--------:|------|-----------|
-| ![I = \frac{V_{CC}-V_{EE}}{68K + R_{cutanea }}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%20%2B%20R_%7Bcut%C3%A1nea%7D%7D) | **R de seguridad:** ![R_{cutanea}=0](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D0) | ![I = \frac{V_{CC}-V_{EE}}{68K}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%7D) |
-|  | **R mínima esperada:** ![R_{cutanea }=300k\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D300k%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{368k\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B368k%5COmega%7D) |
-|  | **R máxima esperada:** ![R_{cutanea }=2M\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D2M%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{2.068M\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B2.068M%5COmega%7D) |
+| ![I = \frac{V_{CC}-V_{EE}}{68K + R_{cut }}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%20%2B%20R_%7Bcut%C3%A1nea%7D%7D) | **R de seguridad:** ![R_{cut}=0](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D0) | ![I = \frac{V_{CC}-V_{EE}}{68K}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%7D) |
+|  | **R mínima esperada:** ![R_{cut }=300k\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D300k%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{368k\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B368k%5COmega%7D) |
+|  | **R máxima esperada:** ![R_{cut }=2M\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D2M%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{2.068M\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B2.068M%5COmega%7D) |
 
 
 
