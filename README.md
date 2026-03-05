@@ -50,7 +50,7 @@ en la siguiente tabla se calculan valores posibles de conductancia cutánea:
 | 2 MΩ | 0.50 | 1.60 |
 # Selección del umbral 
 El código calcula los estadísticos principales del arreglo de datos de calibración datosCal, obteniendo la media y desviación estándar mediante las funciones mean() y std() respectivamente; a partir de estos valores se definen dos umbrales de aceptación situados a ±0.5 desviaciones estándar respecto a la media, los cuales delimitan el rango de valores considerados válidos durante el proceso de calibración. Finalmente, los resultados son presentados en consola con formato de tres decimales en unidades de Voltios mediante la función fprintf().
-´´´
+```
 % Calcular estadísticos
 media = mean(datosCal);
 desv = std(datosCal);
@@ -63,8 +63,7 @@ fprintf("Media: %.3f V\n",media)
 fprintf("Desviación estándar: %.3f V\n",desv)
 fprintf("Umbral bajo: %.3f V\n",umbral_bajo)
 fprintf("Umbral alto: %.3f V\n\n",umbral_alto)
-
-´´´
+```
 # Resultados y análisis
 
 ## ¿A qué se debe que una inspiración profunda incremente la magnitud de la respuesta galvánica cutánea (GSR)?
