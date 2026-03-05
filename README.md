@@ -35,10 +35,16 @@ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}}
 $$
 
 
-
-
-# Procesamiento del código
 # Resultados y análisis
+
+<img width="1589" height="836" alt="image" src="https://github.com/user-attachments/assets/8b4e51c0-69d2-4ecd-99e7-d103fafaa46e" />
+
+<img width="1589" height="836" alt="image" src="https://github.com/user-attachments/assets/31327840-878a-4258-b83f-f131d6a140f5" />
+# Reflexion y viabilidad de la implementación en contextos reales
+## Viabilidad para 
+El sistema desarrollado para la medición de la respuesta galvánica de la piel (GSR) mediante electrodos secos ubicados en la zona palmar presenta una alta eficacia para el monitoreo ambulatorio del estrés en entornos cotidianos como oficinas, aulas universitarias y el hogar. Esto se debe a que la zona palmar posee una elevada densidad de glándulas sudoríparas ecrinas, cuya actividad está regulada por el sistema nervioso simpático, lo que produce cambios detectables en la conductancia de la piel ante estados de activación emocional o estrés.
+
+El uso de electrodos secos permite una medición no invasiva y cómoda, adecuada para monitoreo continuo durante actividades diarias. En ambientes como oficinas o aulas universitarias, el sistema puede registrar variaciones en la actividad electrodérmica asociadas con situaciones de presión cognitiva, carga de trabajo o ansiedad académica. Asimismo, en el hogar puede emplearse para evaluar patrones de estrés relacionados con el descanso, el trabajo remoto o actividades cotidianas.
 
 # Conclusiones
 # Referencias
