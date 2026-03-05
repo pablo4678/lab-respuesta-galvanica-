@@ -32,6 +32,15 @@ según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre
 | Ecuación | Casos |
 |:--------:|-------|
 | $$ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}} $$ | **R de seguridad:** $R_{cutánea}=0$ <br> **R mínima esperada:** $R_{cutánea}=300k\Omega$ <br> **R máxima esperada:** $R_{cutánea}=2M\Omega$ |
+
+
+| Ecuación | Condición |
+|----------|-----------|
+| $$ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}} $$ | **R de seguridad:** $R_{cutánea}=0$ |
+|  | **R mínima esperada:** $R_{cutánea}=300k\Omega$ |
+|  | **R máxima esperada:** $R_{cutánea}=2M\Omega$ |
+
+
 # Procesamiento del código
 # Resultados y análisis
 
