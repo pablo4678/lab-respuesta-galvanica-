@@ -40,6 +40,11 @@ según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre
 |  | **R mínima esperada:** $R_{cutánea}=300k\Omega$ |
 |  | **R máxima esperada:** $R_{cutánea}=2M\Omega$ |
 
+| Ecuación | Caso | Corriente |
+|:--------:|------|-----------|
+| $ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}} $ | **R de seguridad:** $R_{cutánea}=0$ | $ I = \frac{V_{CC}-V_{EE}}{68K} $ |
+|  | **R mínima esperada:** $R_{cutánea}=300k\Omega$ | $ I = \frac{V_{CC}-V_{EE}}{368k\Omega} $ |
+|  | **R máxima esperada:** $R_{cutánea}=2M\Omega$ | $ I = \frac{V_{CC}-V_{EE}}{2.068M\Omega} $ |
 
 # Procesamiento del código
 # Resultados y análisis
