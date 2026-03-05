@@ -28,13 +28,12 @@ En términos de señal, la GSR se compone de un nivel tónico denominado Skin Co
 según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre la interacción entre corriente eléctrica y tejidos biológicos, el umbral de percepción para corriente alterna sinusoidal en el rango de 15 a 100 Hz se sitúa aproximadamente alrededor de 0,5 a 1 mA en adultos promedio, y menor a 4 mA para corriente continua, por este motivo, se requiere hacer unos breves cálculos para garantizar la seguridad del paciente.
 <img width="1599" height="1311" alt="image" src="https://github.com/user-attachments/assets/347784d5-90a4-432a-8002-eae4d88cb7cc" />
 
+### Ecuación del circuito
 
+$$
+I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}}
+$$
 
-| Ecuación | Caso | Corriente |
-|:--------:|------|-----------|
-| ![I = \frac{V_{CC}-V_{EE}}{68K + R_{cut }}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%20%2B%20R_%7Bcut%C3%A1nea%7D%7D) | **R de seguridad:** ![R_{cut}=0](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D0) | ![I = \frac{V_{CC}-V_{EE}}{68K}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%7D) |
-|  | **R mínima esperada:** ![R_{cut }=300k\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D300k%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{368k\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B368k%5COmega%7D) |
-|  | **R máxima esperada:** ![R_{cut }=2M\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D2M%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{2.068M\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B2.068M%5COmega%7D) |
 
 
 
