@@ -102,7 +102,7 @@ Emotion Detection for Future Personal Affective Wearable Sensors," Biosensors, v
 
 [5] Storm H., Myre K., Rostrup M., Stokland O., Lien M. D., y Raeder J.,
 “Skin conductance correlates with perioperative stress”, Acta Anaesthesiologica Scandinavica, vol. 46, no. 7, pp. 887–895, 2002.
-https://doi.org/10.1034/j.1399-6576.2002.460721.x
+doi: 10.1034/j.1399-6576.2002.460721.x
 
 [6] H. F. Posada-Quintero y K. H. Chon, “Electrodermal activity is sensitive to cognitive stress under water,” Frontiers in Physiology, vol. 8, 2017.
 
