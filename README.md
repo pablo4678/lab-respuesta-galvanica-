@@ -46,7 +46,7 @@ $$
 El sistema desarrollado para la medición de la respuesta galvánica de la piel (GSR) mediante electrodos secos ubicados en la zona palmar se ve como una buena alternativa para el monitoreo ambulatorio del estrés en entornos cotidianos como oficinas, aulas universitarias y el hogar. Esto se debe a que la zona palmar posee una elevada densidad de glándulas sudoríparas ecrinas, cuya actividad está regulada por el sistema nervioso simpático, lo que produce cambios detectables en la conductancia de la piel ante estados de activación emocional o estrés.
 
 El uso de electrodos secos permite una medición no invasiva y cómoda, adecuada para monitoreo continuo durante actividades diarias por un bajo costo, sobre todo cuando se compara con otros métodos convencionales para medir el estrés, como el ECG o la presión arterial que pueden resultar más incómodas, o métodos que miden cambios hormonales como la secreción de epinefrina o norepinefrina que no son adecuados para un monitoreo continuo. Es útil en ambientes como oficinas o aulas universitarias, el sistema puede registrar variaciones en la actividad electrodérmica asociadas con situaciones de presión cognitiva, carga de trabajo o ansiedad académica. Asimismo, en el hogar puede emplearse para evaluar patrones de estrés relacionados con el descanso, el trabajo remoto o actividades cotidianas.
-## Viabilidad para emplear elsistema construido durante la práctica para detectar estrés neonatal en recién nacidos
+## Viabilidad para emplear el sistema construido durante la práctica para detectar estrés neonatal en recién nacidos
 
 
 # Conclusiones
