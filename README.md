@@ -10,7 +10,15 @@ La actividad electrodérmica, conocida como EDA por sus siglas en inglés, o tam
 En términos de señal, la GSR se compone de un nivel tónico denominado Skin Conductance Level (SCL), que representa el estado basal de activación simpática; su valor se encuentra alrededor de los 12.36 µS para los dedos y valores menores en zonas no palmares o plantares como las muñecas o frente; y por la componente SCR (Skin Conductance Responses) de respuestas fásicas transitorias denominadas asociadas a estímulos específicos o eventos emocionales. Se ha encontrado que, debido a la alta densidad de glándulas ecrinas y al efectivo tiempo de respuesta, la zona palmar es adecuada para realizar mediciones del estrés, siendo comparada con otros marcadores fisiológicos de estrés como el ritmo cardíaco, presión arterial y niveles de epinefrina y norepinefrina [4,5]. 
 
 <img width="544" height="436" alt="image" src="https://github.com/user-attachments/assets/ca189424-8a26-4958-9146-0aa0d738553a" />
-
+# Seguridad del paciente y normativa
+| Intensidad de corriente alterna 50 Hz (mA) | Intensidad de corriente continua (mA) | Efectos de la corriente eléctrica sobre el cuerpo humano |
+|---------------------------------------------|---------------------------------------|-----------------------------------------------------------|
+| 0.5 – 1 | 0 – 4 | **Percepción:** Intensidad con la que se percibe la existencia de tensión sin ninguna reacción muscular. |
+| 1 – 3 | 4 – 15 | **Sorpresa:** Intensidad de reacción muscular por la que los músculos reaccionan dejando de asir o separándose inmediatamente del conductor bajo tensión tocado por la persona. |
+| 3 – 21 | 15 – 80 | **Acción refleja:** Una corriente mayor a la intensidad límite impide dejar de asir o separarse del conductor tocado bajo tensión eléctrica, agarrota los músculos. |
+| 21 – 40 | 80 – 160 | **Contracciones musculares incontroladas:** Se pierde el control del músculo, estos no responden a las órdenes cerebrales. Hay fibrilación ventricular y paro cardiaco. |
+| 40 – 100 | 160 – 300 | **Paro respiratorio:** No se puede respirar. |
+| Más de 100 | Más de 300 | **Fatalidad:** Muerte segura. |
 
 # Procesamiento del código
 # Resultados y análisis
