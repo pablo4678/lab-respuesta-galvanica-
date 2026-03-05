@@ -29,22 +29,12 @@ según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre
 <img width="1599" height="1311" alt="image" src="https://github.com/user-attachments/assets/347784d5-90a4-432a-8002-eae4d88cb7cc" />
 
 
-| Ecuación | Casos |
-|:--------:|-------|
-| $$ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}} $$ | **R de seguridad:** $R_{cutánea}=0$ <br> **R mínima esperada:** $R_{cutánea}=300k\Omega$ <br> **R máxima esperada:** $R_{cutánea}=2M\Omega$ |
-
-
-| Ecuación | Condición |
-|----------|-----------|
-| $$ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}} $$ | **R de seguridad:** $R_{cutánea}=0$ |
-|  | **R mínima esperada:** $R_{cutánea}=300k\Omega$ |
-|  | **R máxima esperada:** $R_{cutánea}=2M\Omega$ |
 
 | Ecuación | Caso | Corriente |
 |:--------:|------|-----------|
-| $ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}} $ | **R de seguridad:** $R_{cutánea}=0$ | $ I = \frac{V_{CC}-V_{EE}}{68K} $ |
-|  | **R mínima esperada:** $R_{cutánea}=300k\Omega$ | $ I = \frac{V_{CC}-V_{EE}}{368k\Omega} $ |
-|  | **R máxima esperada:** $R_{cutánea}=2M\Omega$ | $ I = \frac{V_{CC}-V_{EE}}{2.068M\Omega} $ |
+| ![I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%20%2B%20R_%7Bcut%C3%A1nea%7D%7D) | **R de seguridad:** ![R_{cutánea}=0](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D0) | ![I = \frac{V_{CC}-V_{EE}}{68K}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B68K%7D) |
+|  | **R mínima esperada:** ![R_{cutánea}=300k\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D300k%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{368k\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B368k%5COmega%7D) |
+|  | **R máxima esperada:** ![R_{cutánea}=2M\Omega](https://latex.codecogs.com/svg.latex?R_%7Bcut%C3%A1nea%7D%3D2M%5COmega) | ![I = \frac{V_{CC}-V_{EE}}{2.068M\Omega}](https://latex.codecogs.com/svg.latex?I%20%3D%20%5Cfrac%7BV_%7BCC%7D-V_%7BEE%7D%7D%7B2.068M%5COmega%7D) |
 
 
 | Ecuación | Caso | Corriente |
