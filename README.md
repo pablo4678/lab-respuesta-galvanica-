@@ -25,9 +25,13 @@ En términos de señal, la GSR se compone de un nivel tónico denominado Skin Co
 | Más de 100 | Más de 300 | **Fatalidad:** Muerte segura. |
 
 
-según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre la interacción entre corriente eléctrica y tejidos biológicos, el umbral de percepción para corriente alterna sinusoidal en el rango de 15 a 100 Hz se sitúa aproximadamente alrededor de 0,5 a 1 mA en adultos promedio
+según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre la interacción entre corriente eléctrica y tejidos biológicos, el umbral de percepción para corriente alterna sinusoidal en el rango de 15 a 100 Hz se sitúa aproximadamente alrededor de 0,5 a 1 mA en adultos promedio, y menor a 4 mA para corriente continua, por este motivo, se requiere hacer unos breves cálculos para garantizar la seguridad del paciente.
 <img width="1599" height="1311" alt="image" src="https://github.com/user-attachments/assets/347784d5-90a4-432a-8002-eae4d88cb7cc" />
 
+
+| Ecuación | Casos |
+|:--------:|-------|
+| $$ I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}} $$ | **R de seguridad:** $R_{cutánea}=0$ <br> **R mínima esperada:** $R_{cutánea}=300k\Omega$ <br> **R máxima esperada:** $R_{cutánea}=2M\Omega$ |
 # Procesamiento del código
 # Resultados y análisis
 
