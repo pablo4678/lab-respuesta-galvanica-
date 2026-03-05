@@ -41,7 +41,11 @@ $$
 
 <img width="1589" height="836" alt="image" src="https://github.com/user-attachments/assets/31327840-878a-4258-b83f-f131d6a140f5" />
 Durante una inspiración profunda ocurren varios cambios fisiológicos que pueden estimular la actividad simpática. En primer lugar, el aumento del volumen pulmonar activa mecanorreceptores pulmonares y torácicos, los cuales envían señales aferentes al tronco encefálico. Estas señales modulan centros autonómicos que regulan tanto la respiración como la actividad simpática. Como consecuencia, puede producirse una activación transitoria del sistema simpático, lo que incrementa la actividad de las glándulas sudoríparas y, por tanto, la conductancia de la piel.
+
+
 # Reflexion y viabilidad de la implementación en contextos reales
+
+
 ## Viabilidad para para monitoreo ambulatorio del estrés en oficinas, aulas universitarias y el hogar
 El sistema desarrollado para la medición de la respuesta galvánica de la piel (GSR) mediante electrodos secos ubicados en la zona palmar se ve como una buena alternativa para el monitoreo ambulatorio del estrés en entornos cotidianos como oficinas, aulas universitarias y el hogar. Esto se debe a que la zona palmar posee una elevada densidad de glándulas sudoríparas ecrinas, cuya actividad está regulada por el sistema nervioso simpático, lo que produce cambios detectables en la conductancia de la piel ante estados de activación emocional o estrés.
 
