@@ -33,6 +33,8 @@ según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre
 $$
 I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}}
 $$
+
+
 Para medir la corriente máxima y que no supere la norma se asume un valor de cero de conductancia cutánea obteniendo un valor de $I_max= 0,04 mA$
 en la siguiente tabla se calculan valores posibles de conductancia cutánea:
 
