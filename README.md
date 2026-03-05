@@ -1,10 +1,17 @@
 # Laboratorio respuesta galvanica cutánea
 # Objetivos
-
+- Identificar las componentes estacionaria y transitoria de la conductancia cutánea
+- Elaborar un dispositivo para el monitoreo de la actividad electrodérmica
+- Plantear una hipótesis desde la fisiología humana de como la GSR (respuesta Galvánica Cutánea) es un buen indicador del estrés.
 # Marco teorico y selección de zona anatomica
 La actividad electrodérmica, conocida como EDA por sus siglas en inglés, o también como respuesta galvánica de la piel es un marcador fisiológico ampliamente validado de la activación del sistema nervioso simpático. Desde el punto de vista neurofisiológico, la EDA refleja cambios en la conductancia eléctrica de la piel producidos por la actividad de las glándulas sudoríparas ecrinas, las cuales están inervadas exclusivamente por fibras simpáticas colinérgicas. Cuando un individuo experimenta estrés, carga cognitiva o algún tipo de activación emocional, se incrementa la actividad simpática, lo que provoca mayor secreción sudomotora y, en consecuencia, un aumento en la conductancia cutánea [1,2]. A diferencia de la sudoración térmica, que responde a cambios en la temperatura ambiental, la sudoración emocional se concentra en palmas, plantas y llemas de los dedos y no varía en función de la temperatura del entorno, incrementándose durante estados de activación mental y disminuyendo durante el reposo y el sueño [3].
+<img width="656" height="264" alt="image" src="https://github.com/user-attachments/assets/c329fecd-1a6d-4cad-943a-8f6200c3dbd1" />
 
 En términos de señal, la GSR se compone de un nivel tónico denominado Skin Conductance Level (SCL), que representa el estado basal de activación simpática; su valor se encuentra alrededor de los 12.36 µS para los dedos y valores menores en zonas no palmares o plantares como las muñecas o frente; y por la componente SCR (Skin Conductance Responses) de respuestas fásicas transitorias denominadas asociadas a estímulos específicos o eventos emocionales. Se ha encontrado que, debido a la alta densidad de glándulas ecrinas y al efectivo tiempo de respuesta, la zona palmar es adecuada para realizar mediciones del estrés, siendo comparada con otros marcadores fisiológicos de estrés como el ritmo cardíaco, presión arterial y niveles de epinefrina y norepinefrina [4,5]. 
+
+<img width="544" height="436" alt="image" src="https://github.com/user-attachments/assets/ca189424-8a26-4958-9146-0aa0d738553a" />
+
+
 # Procesamiento del código
 # Resultados y análisis
 
