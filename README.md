@@ -11,6 +11,8 @@ En términos de señal, la GSR se compone de un nivel tónico denominado Skin Co
 
 <img width="544" height="436" alt="image" src="https://github.com/user-attachments/assets/ca189424-8a26-4958-9146-0aa0d738553a" />
 # Seguridad del paciente y normativa
+
+
 | Intensidad de corriente alterna 50 Hz (mA) | Intensidad de corriente continua (mA) | Efectos de la corriente eléctrica sobre el cuerpo humano |
 |---------------------------------------------|---------------------------------------|-----------------------------------------------------------|
 | 0.5 – 1 | 0 – 4 | **Percepción:** Intensidad con la que se percibe la existencia de tensión sin ninguna reacción muscular. |
