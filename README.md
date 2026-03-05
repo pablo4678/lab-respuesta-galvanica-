@@ -39,7 +39,8 @@ $$
 
 <img width="1589" height="836" alt="image" src="https://github.com/user-attachments/assets/8b4e51c0-69d2-4ecd-99e7-d103fafaa46e" />
 
-<img width="1589" height="836" alt="image" src="https://github.com/user-attachments/assets/31327840-878a-4258-b83f-f131d6a140f5" />
+<img width="1553" height="822" alt="image" src="https://github.com/user-attachments/assets/b6d52c82-6d52-49cf-802f-40c5096bad2f" />
+
 Durante una inspiración profunda ocurren varios cambios fisiológicos que pueden estimular la actividad simpática. En primer lugar, el aumento del volumen pulmonar activa mecanorreceptores pulmonares y torácicos, los cuales envían señales aferentes al tronco encefálico. Estas señales modulan centros autonómicos que regulan tanto la respiración como la actividad simpática. Como consecuencia, puede producirse una activación transitoria del sistema simpático, lo que incrementa la actividad de las glándulas sudoríparas y, por tanto, la conductancia de la piel.
 
 
