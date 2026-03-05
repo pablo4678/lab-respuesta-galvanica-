@@ -28,12 +28,24 @@ En términos de señal, la GSR se compone de un nivel tónico denominado Skin Co
 según la norma IEC 60479, que sintetiza evidencia experimental y clínica sobre la interacción entre corriente eléctrica y tejidos biológicos, el umbral de percepción para corriente alterna sinusoidal en el rango de 15 a 100 Hz se sitúa aproximadamente alrededor de 0,5 a 1 mA en adultos promedio, y menor a 4 mA para corriente continua, por este motivo, se requiere hacer unos breves cálculos para garantizar la seguridad del paciente.
 <img width="1599" height="1311" alt="image" src="https://github.com/user-attachments/assets/347784d5-90a4-432a-8002-eae4d88cb7cc" />
 
-### Ecuación del circuito
+### Cálculo de la corriente
 
 $$
 I = \frac{V_{CC}-V_{EE}}{68K + R_{cutánea}}
 $$
+Para medir la corriente máxima y que no supere la norma se asume un valor de cero de conductancia cutánea obteniendo un valor de $I_max= 0,04 mA$
+en la siguiente tabla se calculan valores posibles de conductancia cutánea:
 
+### Corriente en función de la resistencia y conductancia cutánea
+
+| Resistencia cutánea (Ω) | Conductancia (µS) | Corriente (µA) |
+|-------------------------|-------------------|---------------|
+| 300 kΩ | 3.33 | 8.97 |
+| 500 kΩ | 2.00 | 5.81 |
+| 700 kΩ | 1.43 | 4.30 |
+| 1 MΩ | 1.00 | 3.09 |
+| 1.5 MΩ | 0.67 | 2.10 |
+| 2 MΩ | 0.50 | 1.60 |
 
 # Resultados y análisis
 
