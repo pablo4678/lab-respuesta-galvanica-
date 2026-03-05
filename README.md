@@ -74,5 +74,8 @@ Emotion Detection for Future Personal Affective Wearable Sensors," Biosensors, v
 [5] Storm H., Myre K., Rostrup M., Stokland O., Lien M. D., y Raeder J.,
 “Skin conductance correlates with perioperative stress”, Acta Anaesthesiologica Scandinavica, vol. 46, no. 7, pp. 887–895, 2002.
 https://doi.org/10.1034/j.1399-6576.2002.460721.x
+
+
 [6] Z. Kuderava, M. Kozar, Z. Visnovcova, N. Ferencova, I. Tonhajzerova, L. Prsova y M. Zibolen, “Sympathetic nervous system activity and pain-related response indexed by electrodermal activity during the earliest postnatal life in healthy term neonates,” Physiological Research, vol. 72, no. 3, pp. 393–401, Jul. 2023, doi: 10.33549/physiolres.935061.
+
 [7] D. Harrison, S. Boyce, P. Loughnan, P. Dargaville, H. Storm y L. Johnston, “Skin conductance as a measure of pain and stress in hospitalised infants,” Early Human Development, vol. 82, no. 9, pp. 603–608, Sep. 2006, doi: 10.1016/j.earlhumdev.2005.12.008.
