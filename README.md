@@ -37,12 +37,26 @@ $$
 
 # Resultados y análisis
 
-<img width="1589" height="836" alt="image" src="https://github.com/user-attachments/assets/8b4e51c0-69d2-4ecd-99e7-d103fafaa46e" />
-
-<img width="1553" height="822" alt="image" src="https://github.com/user-attachments/assets/b6d52c82-6d52-49cf-802f-40c5096bad2f" />
-
+## ¿A qué se debe que una inspiración profunda incremente la magnitud de la respuesta galvánica cutánea (GSR)?
 Durante una inspiración profunda ocurren varios cambios fisiológicos que pueden estimular la actividad simpática. En primer lugar, el aumento del volumen pulmonar activa mecanorreceptores pulmonares y torácicos, los cuales envían señales aferentes al tronco encefálico. Estas señales modulan centros autonómicos que regulan tanto la respiración como la actividad simpática. Como consecuencia, puede producirse una activación transitoria del sistema simpático, lo que incrementa la actividad de las glándulas sudoríparas y, por tanto, la conductancia de la piel.
 
+
+<img width="1499" height="654" alt="image" src="https://github.com/user-attachments/assets/b0bc7012-6511-4608-a1f2-b25fc5cca477" />
+
+
+La anterior imagen muestra la evolución de la señal en el tiempo, durante los dos minutos que se tomó, en los segundos 25 y 100, se realizaron espiraciones súbitas y profundas, se observa como esto eleva el nivel de conductancia cutánea y al pasar el umbral de detección (señal en rojo) se emite la alerta de estrés, comprobando experimentalmente, lo que se comentó anteriormente.
+
+## ¿Cuáles serían las ventajas y desventajas de utilizar la GSR como indicador de estrés?
+
+El uso de la respuesta galvánica cutánea, como indicador de estrés tiene sus pros y contras. Por una parte y como se mencionó anteriormente diversos estudios logran correlacionar el estrés con un aumento en la componente SCR, también se ha visto que es un buen indicador del estrés cognitivo, incluo en condiciones de alta humedad [6]. Otra de sus principales ventajas es que es un método que no es invasivo, ni costoso, tampoco requiere de sensores complejos para su captura y su procesamiento es sencillo. Esto hace que su uso sea óptimo para monitoreo ambulatorio y dispositivos portables.
+
+<img width="1163" height="683" alt="image" src="https://github.com/user-attachments/assets/0f3b0ca0-5022-466a-98bb-9d5acb494da5" />
+
+El dispositivo de probó para monitoreo de estrés en tareas cotidianas, como se ve en la figura el primer minuto el sujeto estuvo sin hacer ninguna actividad, solo relajandose, segundos antes de iniciar la tarea estresante se activa la respuesta simpática, lo que se ve reflejado en la subida de la señaln que se mantiene por encima del umbral durante todo el desarrollo de la tarea.
+
+
+Sin embargo, el uso de la GSR también presenta limitaciones importantes. En primer lugar, la señal GSR refleja principalmente el nivel general de activación fisiológica, pero no permite identificar de manera específica qué emoción o estado psicológico está produciendo dicha activación, puede ser causada tanto por dolor, excitación, miedo o estrés cognitivo. Otra de sus limitaciones es que la medición es sensible al ruido de tipo artefacto por el movimiento de los electrodos.
+.
 
 # Reflexion y viabilidad de la implementación en contextos reales
 
@@ -52,8 +66,8 @@ El sistema desarrollado para la medición de la respuesta galvánica de la piel 
 
 El uso de electrodos secos permite una medición no invasiva y cómoda, adecuada para monitoreo continuo durante actividades diarias por un bajo costo, sobre todo cuando se compara con otros métodos convencionales para medir el estrés, como el ECG o la presión arterial que pueden resultar más incómodas, o métodos que miden cambios hormonales como la secreción de epinefrina o norepinefrina que no son adecuados para un monitoreo continuo. Es útil en ambientes como oficinas o aulas universitarias, el sistema puede registrar variaciones en la actividad electrodérmica asociadas con situaciones de presión cognitiva, carga de trabajo o ansiedad académica. Asimismo, en el hogar puede emplearse para evaluar patrones de estrés relacionados con el descanso, el trabajo remoto o actividades cotidianas.
 ## Viabilidad para emplear el sistema construido durante la práctica para detectar estrés neonatal en recién nacidos
-Algunos estudios como los realizados por Kuderava y sus colegas, muestran que los neonatos ya tienen lo suficientemente desarrollado el sistema simpático como para poder detectar cambios significativos en los niveles de SCR, durante la aplicación de estímulos dolorosos como punzadas en los talones [6]. 
-Sin embargo otros estudios en los que se ha medido la conductancia cutánea en infantes durante su estancia en cuidados intensivos, mostró una alta variabilidad en los valores, lo que dificulta la tarea de establecer umbrales claros, que den una buena estimación del nivel de estrés de los individuos [7]. 
+Algunos estudios como los realizados por Kuderava y sus colegas, muestran que los neonatos ya tienen lo suficientemente desarrollado el sistema simpático como para poder detectar cambios significativos en los niveles de SCR, durante la aplicación de estímulos dolorosos como punzadas en los talones [7]. 
+Sin embargo otros estudios en los que se ha medido la conductancia cutánea en infantes durante su estancia en cuidados intensivos, mostró una alta variabilidad en los valores, lo que dificulta la tarea de establecer umbrales claros, que den una buena estimación del nivel de estrés de los individuos [8]. 
 Algunas otras cosas a considerar en cuanto al uso en neonatos, es que es posible que toquen constantemente el dispositivo o intenten retirarlo, teniendo esto en cuenta sería interesante evaluar si es más adecuado realizar la medición de conductancia cutánea, en otro sitio anatómico distinto a la palma de la mano,  como por ejemplo la planta del pie.
 
 # Conclusiones
@@ -76,7 +90,10 @@ Emotion Detection for Future Personal Affective Wearable Sensors," Biosensors, v
 “Skin conductance correlates with perioperative stress”, Acta Anaesthesiologica Scandinavica, vol. 46, no. 7, pp. 887–895, 2002.
 https://doi.org/10.1034/j.1399-6576.2002.460721.x
 
+[6] H. F. Posada-Quintero y K. H. Chon, “Electrodermal activity is sensitive to cognitive stress under water,” Frontiers in Physiology, vol. 8, 2017.
 
-[6] Z. Kuderava, M. Kozar, Z. Visnovcova, N. Ferencova, I. Tonhajzerova, L. Prsova y M. Zibolen, “Sympathetic nervous system activity and pain-related response indexed by electrodermal activity during the earliest postnatal life in healthy term neonates,” Physiological Research, vol. 72, no. 3, pp. 393–401, Jul. 2023, doi: 10.33549/physiolres.935061.
+[7] Z. Kuderava, M. Kozar, Z. Visnovcova, N. Ferencova, I. Tonhajzerova, L. Prsova y M. Zibolen, “Sympathetic nervous system activity and pain-related response indexed by electrodermal activity during the earliest postnatal life in healthy term neonates,” Physiological Research, vol. 72, no. 3, pp. 393–401, Jul. 2023, doi: 10.33549/physiolres.935061.
 
-[7] D. Harrison, S. Boyce, P. Loughnan, P. Dargaville, H. Storm y L. Johnston, “Skin conductance as a measure of pain and stress in hospitalised infants,” Early Human Development, vol. 82, no. 9, pp. 603–608, Sep. 2006, doi: 10.1016/j.earlhumdev.2005.12.008.
+[8] D. Harrison, S. Boyce, P. Loughnan, P. Dargaville, H. Storm y L. Johnston, “Skin conductance as a measure of pain and stress in hospitalised infants,” Early Human Development, vol. 82, no. 9, pp. 603–608, Sep. 2006, doi: 10.1016/j.earlhumdev.2005.12.008.
+
+
